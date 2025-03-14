@@ -1,0 +1,6 @@
+com\example\gatchaapi\service\AuthService$1.class
+com\example\gatchaapi\model\User.class
+com\example\gatchaapi\repository\UserRepository.class
+com\example\gatchaapi\AuthApiApplication.class
+com\example\gatchaapi\service\AuthService.class
+com\example\gatchaapi\controller\AuthController.class
