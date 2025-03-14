@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example.gatchaapi</groupId>
-    <artifactId>auth-api</artifactId>
+    <artifactId>monstre-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>auth-api</name>
-    <description>Authentication API for Gatcha Game</description>
+    <name>monstre-api</name>
+    <description>Monstre API for Gatcha Game</description>
     <properties>
         <java.version>17</java.version>
     </properties>
@@ -43,7 +43,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.example.gatchaapi.AuthApiApplication</mainClass>
+                    <mainClass>com.example.gatchaapi.MonstreApiApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>

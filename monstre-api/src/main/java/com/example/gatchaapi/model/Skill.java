@@ -1,4 +1,4 @@
-package com.example.MonstreApi.model;
+package com.example.gatchaapi.model;
 
 public class Skill {
     public String name;

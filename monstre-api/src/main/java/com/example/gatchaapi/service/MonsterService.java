@@ -1,6 +1,6 @@
-package com.example.MonstreApi.service;
-import com.example.MonstreApi.model.Monster;
-import com.example.MonstreApi.repository.MonsterRepository;
+package com.example.gatchaapi.service;
+import com.example.gatchaapi.model.Monster;
+import com.example.gatchaapi.repository.MonsterRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
-package com.example.MonstreApi.repository;
+package com.example.gatchaapi.repository;
 
-import com.example.MonstreApi.model.Monster;
+import com.example.gatchaapi.model.Monster;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.List;

@@ -1,6 +1,6 @@
-package com.example.MonstreApi.MonsterDto;
+package com.example.gatchaapi.MonsterDto;
 
-import com.example.MonstreApi.model.Skill;
+import com.example.gatchaapi.model.Skill;
 
 import java.util.List;
 

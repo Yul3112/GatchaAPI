@@ -22,7 +22,7 @@ RUN ./mvnw clean package -DskipTests
 RUN ls -l target
 
 # Expose the port the application runs on
-EXPOSE 8081
+EXPOSE 8083
 
 # Run the application
-CMD ["java", "-jar", "target/auth-api-0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "target/monstre-api-0.0.1-SNAPSHOT.jar"]
